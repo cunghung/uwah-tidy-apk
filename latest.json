@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "10.0",
+  "versionCode": 11,
+  "versionName": "11.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "鍵盤不再被底部系統列蓋住；AI 不准再回話，只能整理"
+  "note": "鍵盤加了 😊 表情按鈕，可以直接打表情；常用的會自動浮到最上面一排"
 }
