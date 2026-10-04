@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "11.0",
+  "versionCode": 12,
+  "versionName": "12.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "鍵盤加了 😊 表情按鈕，可以直接打表情；常用的會自動浮到最上面一排"
+  "note": "字典自動補上舊工具搬過來的 34 個詞（廠商、系統、金流）；鍵盤有 😊 表情按鈕"
 }
