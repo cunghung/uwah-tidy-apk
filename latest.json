@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "9.0",
+  "versionCode": 10,
+  "versionName": "10.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "字放大、最上面不再被標題列蓋住"
+  "note": "鍵盤不再被底部系統列蓋住；AI 不准再回話，只能整理"
 }
