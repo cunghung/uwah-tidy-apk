@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "13.0",
+  "versionCode": 14,
+  "versionName": "14.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "同步改成「挑一個現有的檔」——OneDrive 在舊的存檔畫面根本不會出現。檔案已經先放在 OneDrive\\語音整理App\\語音整理資料.json"
+  "note": "聽得更準：錄音直接給 AI 聽（帶你的字典），嗯、啊、呃和講到一半改口都會自動拿掉；講話時會看到音量條"
 }
