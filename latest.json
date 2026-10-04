@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "15.0",
+  "versionCode": 16,
+  "versionName": "16.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "整理變快：講完到打出字，從 3~8 秒縮短到大約 2 秒，準確度一樣"
+  "note": "再快一點：錄音先壓小再傳（聲音不變），按麥克風時就先連線；用行動網路時特別有感"
 }
