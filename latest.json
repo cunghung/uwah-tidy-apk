@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "7.0",
+  "versionCode": 8,
+  "versionName": "8.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "畫面改小、修同步誤報、OneDrive 選得到"
+  "note": "最上面不再被遮住"
 }
