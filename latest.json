@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "14.0",
+  "versionCode": 15,
+  "versionName": "15.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "聽得更準：錄音直接給 AI 聽（帶你的字典），嗯、啊、呃和講到一半改口都會自動拿掉；講話時會看到音量條"
+  "note": "整理變快：講完到打出字，從 3~8 秒縮短到大約 2 秒，準確度一樣"
 }
