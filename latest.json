@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "16.0",
+  "versionCode": 17,
+  "versionName": "17.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "再快一點：錄音先壓小再傳（聲音不變），按麥克風時就先連線；用行動網路時特別有感"
+  "note": "防止 AI 亂編：沒講話或只錄到一兩秒時，AI 自己編出來的句子會擋下來，不會打出去"
 }
