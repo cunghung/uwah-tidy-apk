@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "21.0",
+  "versionCode": 22,
+  "versionName": "22.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "設定頁的鑰匙會顯示尾碼，可以核對貼的是哪把；Google 說額度不夠時會講清楚是「這分鐘太快」還是「今天免費額度用完」，太快會自動多等再送"
+  "note": "鍵盤右下角「原鍵盤」改成「換/鍵」：按一下換行，按住 0.5 秒切回原本的鍵盤"
 }
