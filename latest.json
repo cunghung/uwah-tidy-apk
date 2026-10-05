@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "18.0",
+  "versionCode": 19,
+  "versionName": "19.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "Google 那邊太忙時會自動多試兩次；錯誤訊息全部改成中文"
+  "note": "講完送出更快（錄音壓小 2.5 倍再傳）；鍵盤變矮一半，四顆鈕排一排；整理好會顯示等了幾秒"
 }
