@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "20.0",
+  "versionCode": 21,
+  "versionName": "21.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "退一格按住不放會連續刪，越按越快；整理好會顯示等了幾秒、卡在哪一段（壓縮／上傳／Google）"
+  "note": "設定頁的鑰匙會顯示尾碼，可以核對貼的是哪把；Google 說額度不夠時會講清楚是「這分鐘太快」還是「今天免費額度用完」，太快會自動多等再送"
 }
