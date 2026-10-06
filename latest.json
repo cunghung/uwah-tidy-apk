@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "22.0",
+  "versionCode": 23,
+  "versionName": "23.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "鍵盤右下角「原鍵盤」改成「換/鍵」：按一下換行，按住 0.5 秒切回原本的鍵盤"
+  "note": "表情面板多了「常用句」分頁，可在鍵盤直接開設定；新增降噪，店裡吵也比較不會收到雜音"
 }
