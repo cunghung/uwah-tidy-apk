@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "23.0",
+  "versionCode": 24,
+  "versionName": "24.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "表情面板多了「常用句」分頁，可在鍵盤直接開設定；新增降噪，店裡吵也比較不會收到雜音"
+  "note": "常用句頁多了「📖 字典」：聽錯的字改好選起來一按就加進字典；鍵盤和 App 看得到大約花了多少錢"
 }
