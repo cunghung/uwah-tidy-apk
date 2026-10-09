@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "24.0",
+  "versionCode": 26,
+  "versionName": "26.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "常用句頁多了「📖 字典」：聽錯的字改好選起來一按就加進字典；鍵盤和 App 看得到大約花了多少錢"
+  "note": "講到一半往上拉畫面看資料，不會再中斷錄音：通知列會顯示「錄音中」，看完點回對話框按「講完了」就好；另外常用句頁多了「⚙️ App 設定」"
 }
