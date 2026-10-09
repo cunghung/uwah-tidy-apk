@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "27.0",
+  "versionCode": 28,
+  "versionName": "28.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "以後有新版，鍵盤上面那行字會提醒你，點一下就更新，不用再進 App；講到一半往上拉看資料也不會中斷錄音"
+  "note": "設定頁多一行「Google 帳單真實金額」，是電腦每三小時查好、經 OneDrive 帶過來的，跟 App 自己估的分開顯示"
 }
