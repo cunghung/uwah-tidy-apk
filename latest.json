@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "26.0",
+  "versionCode": 27,
+  "versionName": "27.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "講到一半往上拉畫面看資料，不會再中斷錄音：通知列會顯示「錄音中」，看完點回對話框按「講完了」就好；另外常用句頁多了「⚙️ App 設定」"
+  "note": "以後有新版，鍵盤上面那行字會提醒你，點一下就更新，不用再進 App；講到一半往上拉看資料也不會中斷錄音"
 }
