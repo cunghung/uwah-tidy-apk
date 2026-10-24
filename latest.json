@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "29.0",
+  "versionCode": 30,
+  "versionName": "30.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "講話鍵縮短；說話或整理中多一顆「取消」；「換/鍵」拆成「換行」和「鍵盤」兩顆"
+  "note": "講很久卻只聽到幾個字時，會自動再聽一次；設定畫面多一顆「診斷紀錄」"
 }
