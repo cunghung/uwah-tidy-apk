@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "31.0",
+  "versionCode": 32,
+  "versionName": "32.0",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "同步改版：電腦另存自己的檔，不再長出衝突副本。更新後請按「設定電腦檔」選 語音整理資料-電腦.json"
+  "note": "新功能「自我學習」：你在對話框改過它打的字，它會記下，同樣的改法出現 2 次就自動套用。到主畫面「🧠 它學到了什麼」可以看、可以刪。"
 }
