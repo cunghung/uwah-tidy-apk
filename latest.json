@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "32.0",
+  "versionCode": 33,
+  "versionName": "32.1",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-tidy-apk/main/uwah-tidy.apk",
-  "note": "新功能「自我學習」：你在對話框改過它打的字，它會記下，同樣的改法出現 2 次就自動套用。到主畫面「🧠 它學到了什麼」可以看、可以刪。"
+  "note": "新版會更快提示：鍵盤每 3 分鐘內最多查一次更新（原本 30 分鐘）。"
 }
